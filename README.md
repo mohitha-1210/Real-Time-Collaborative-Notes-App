@@ -1,1 +1,1 @@
-# Real-Time-Collaborative-Notes-App
+# Collaborative Notes App
